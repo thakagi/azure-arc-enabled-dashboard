@@ -1,6 +1,6 @@
 # Sample dashboard for Azure Arc-enabled Server & SQL Server
 
-his sample dashboard enables you to easily manage your Azure Arc-enabled Server and SQL Server inventory.
+This sample dashboard enables you to easily manage your Azure Arc-enabled Server and SQL Server inventory.
 
 ![dashboard](img/azure-arc-enabled-dashboard.png)
 
